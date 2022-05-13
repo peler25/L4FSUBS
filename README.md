@@ -23,7 +23,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy]("https://dashboard.heroku.com/new?template=https://github.com/arkadiaz/fox-userbot")</br>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/arkadiaz/fox-userbot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
