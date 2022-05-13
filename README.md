@@ -20,15 +20,9 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
 - Tambahkan bot ke Group ForceSub tambahkan bot sebagai ADMIN
 
-##
-### Installation
-#### Deploy on Heroku
+### heroku
+<p align="center">
 <a href="https://dashboard.heroku.com/new?template=https://github.com/arkadiaz/fox-userbot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>
-
-**Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
-<a href="https://youtu.be/O2tieQgzYZg">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
 
 #### Deploy in your VPS
 ````bash
